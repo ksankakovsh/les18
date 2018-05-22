@@ -79,26 +79,26 @@ header { margin-bottom: 155px;}
 .bold {font-weight: bolder;}
 .webdev p { font-size: 18px; color: rgb(119, 119, 119); margin-bottom: 37px;}
 .text1 { margin: 0 auto;}
-.img1 {  margin-left: 50px; margin-bottom: 50px;}
+.img1 {  margin-left: 50px; margin-top:50px;}
 /*конец web development*/
 /*секция identity branding*/
 .ident {background: #fafafa; padding-top: 102px; padding-bottom: 65px; }
 .ident h2 {font-size: 60px; margin-bottom: 35px;}
 .ident p { font-size: 18px; color: rgb(119, 119, 119);margin-bottom: 37px;}
 
-.img2 {margin-top: 30px;  }
+.img2 {margin-top: 50px;  }
 /*конец секции identity branding*/
 /*секция list*/
 .list { padding-top: 102px;padding-bottom: 60px; }
 .list h3 {width: 65%; margin: 0 auto; font-size: 22px; margin-bottom:10px; }
 .list p {font-size: 18px;color: rgb(119, 119, 119); margin-bottom:37px; }
 .list li {margin-bottom: 40px;}
-.list img { float: left; margin-right: 15px;}
+.list img { float: left; margin-right: 15px; margin-bottom: 20px;}
 
 
 /* конец list*/
 /*секция awesome clients*/
-.clients { background: #fafafa; padding-top: 102px; padding-bottom:30px; }
+.clients { background: #fafafa; padding-top: 102px; padding-bottom:110px; }
 .clients h2 {font-size: 60px;color: rgb(34, 34, 34); text-align: center; margin-bottom: 20px;}
 .clients p {font-size: 22px;color: rgb(119, 119, 119);text-align: center; margin-bottom: 47px;}
 
@@ -110,7 +110,7 @@ border: 1px solid #DCDCDC; background: #fff; }
 	text-align: left; padding: 40px 70px;}
 
 
-.quote2 { margin-top: 60px; margin-bottom: 120px;
+.quote2 { margin-top: 40px; margin-bottom: 20px;
 border: 1px solid #DCDCDC; background: #fff; }
 .quote2 q { quotes: "\201c" "\201d" ; font-size: 20px; 
   color: rgb(119, 119, 119); text-align: left;}
@@ -139,8 +139,8 @@ border: 1px solid #DCDCDC; background: #fff; }
 .team .fa-google-plus {background: #d95232; padding: 10px 7px 10px 8px; border-radius: 50%}
 /*конец секции team*/
 /*секция say*/
-.say {height: auto; background: #7690c5; padding-top: 100px; color: #fff; }
-.hello 
+.say {height: auto; background: #7690c5; padding-top: 100px; padding-bottom: 70px; color: #fff; }
+
 .col-md-5 h2 {font-size: 60px; margin-bottom: 17px;}
 .hello p {margin-bottom: 47px; line-height: 1.2; font-size: 18px;}
 .hello ul {display: inline-block; float: left; background: #7690c5; margin-right: 60px;}
@@ -152,8 +152,8 @@ textarea {width: 100%; max-width: 406px; height: 210px; border-radius: 3px;
 	padding-left: 20px; padding-top: 15px;
 font-family: "BrandonGrotesque";font-size: 18px;}
 i {padding-right: 10px;}
-
-footer { font-size: 16px;margin-top: 99px; padding-top: 30px; padding-bottom: 30px; 
+.footer {background: #7690c5; }
+footer {color: #fff; font-size: 16px; padding-top: 30px; padding-bottom: 30px;
 	border-top:solid 2px #87a0d2;  }
 
 
