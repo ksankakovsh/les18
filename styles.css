@@ -89,11 +89,11 @@ header { margin-bottom: 155px;}
 .img2 {margin-top: 50px;  }
 /*конец секции identity branding*/
 /*секция list*/
-.list { padding-top: 102px;padding-bottom: 60px; }
-.list h3 {width: 65%; margin: 0 auto; font-size: 22px; margin-bottom:10px; }
-.list p {font-size: 18px;color: rgb(119, 119, 119); margin-bottom:37px; }
+.list { padding-top: 102px;padding-bottom: 100px; }
+.list h3 { font-size: 22px; margin-bottom:10px; }
+.list p {font-size: 18px;color: rgb(119, 119, 119); }
 .list li {margin-bottom: 40px;}
-.list img { float: left; margin-right: 15px; margin-bottom: 20px;}
+.list img { margin-top: 20px; }
 
 
 /* конец list*/
@@ -143,7 +143,7 @@ border: 1px solid #DCDCDC; background: #fff; }
 
 .col-md-5 h2 {font-size: 60px; margin-bottom: 17px;}
 .hello p {margin-bottom: 47px; line-height: 1.2; font-size: 18px;}
-.hello ul {display: inline-block; float: left; background: #7690c5; margin-right: 60px;}
+.hello ul { background: #7690c5; margin-right: 60px;}
 .hello li {margin-bottom: 40px;}
 form 
 input {width: 100%; max-width: 406px; height: 50px; border-radius: 3px; 
